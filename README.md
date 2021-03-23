@@ -1,6 +1,9 @@
 # notary
 
-A new Flutter application.
+A simple Flutter application.
+This App Contains Two Screens.
+First screen i.e. HomePage has both the Scrollable direction i.e. horizontal and vertical
+
 
 ## Getting Started
 
